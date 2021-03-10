@@ -1,0 +1,19 @@
+.grid_elem{
+    
+    background-color: cadetblue;
+}
+.remove{
+    font-size: 26px;
+    line-height: 0.5;
+    color: rgba(0, 0, 0, 0.5);
+}
+.dragme{
+    position: "absolute";
+    width:100%;
+    top: 0;
+    cursor: grab;
+    font-size: 16px;
+    line-height: 0.3;
+    color: rgba(0, 0, 0, 0.5);
+    box-shadow: rgba(55, 53, 47, 0.2) 0px 0px 0px 1px inset;
+}

@@ -1,0 +1,18 @@
+.ticker-chart-container{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ticker-chart{
+    width: 640px;
+    height: 360px;
+    margin: 10px;
+    padding: 0px;
+    
+}
+.frame{
+    background-color: hotpink;
+    border: 1px solid blueviolet;
+}
